@@ -2,6 +2,7 @@ The PI-2230-SSD is an SSD expansion board specifically designed for the Raspberr
 
 For more information, please download the instruction document. If you have any problems or suggestions during the use, you can contact me by email: 416386001@qq.com
 
+## my tindie store： https://www.tindie.com/products/rachel/pi-2230-ssd/
 
 
 
